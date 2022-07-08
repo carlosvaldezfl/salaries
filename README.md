@@ -1,0 +1,2 @@
+# salaries
+lista de salarios
